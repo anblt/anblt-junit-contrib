@@ -9,7 +9,8 @@ Collection of custom junit rule classes, hamcrest matcher classes, etc.
 
 ### Custom JUnit.Rules
 
-- [x] JettyServerSetup
+- [x] JettyServerSetup, @see [JettyServerTest.java](anblt/junit/JettyServerTest.java)
+- [x] HSQLDBSetup, @see [HSQLDBTest.java](anblt/junit/HSQLDBTest.java)
 
 
 ### Custom Hamcrest.Matchers
